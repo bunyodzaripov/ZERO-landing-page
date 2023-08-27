@@ -1,0 +1,6 @@
+{
+  "figma.autocompleteBlocks": true,
+  "files.autoSave": "afterDelay",
+  "editor.defaultFoldingRangeProvider": "esbenp.prettier-vscode",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
